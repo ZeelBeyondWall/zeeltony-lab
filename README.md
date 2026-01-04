@@ -10,12 +10,12 @@ Tatakae.
 
 I’m a developer who enjoys building things that actually work in real conditions, not just on paper.
 
-Right now, I’m freelancing with **ASTA Trading Firm** (powered by Tradebulls), where I mostly work on:
+Right now, I’m freelancing with **ASTA Trading Firm** (Powered by Tradebulls), where I mostly work on:
 - Trading terminals  
 - Algo-based systems  
 - Internal tools used by traders  
 
-Most of my work stays private — client trust comes first.
+Most of my work stays private ... client trust comes first.
 
 ---
 
@@ -26,7 +26,7 @@ I spend most of my time:
 - Improving reliability and performance  
 - Fixing things that break under real load  
 
-I prefer simple, clear solutions over over-engineered ones.
+I prefer simple, clear solutions over engineered ones.
 
 ---
 
@@ -40,7 +40,7 @@ If something works and can be improved step by step, that’s good enough to mov
 ## Notes
 
 You won’t find many public repositories here.  
-Not because I don’t build — but because most of what I build is meant to stay internal.
+Not because I don’t build, but because most of what I build is meant to stay internal.
 
 ---
 
